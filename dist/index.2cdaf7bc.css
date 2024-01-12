@@ -1,0 +1,27 @@
+.box {
+  flex-wrap: wrap;
+  margin-left: 15px;
+}
+
+.item-modal {
+  margin-top: 15px;
+}
+
+.input-modal {
+  border-radius: 5px;
+}
+
+.title {
+  font-size: 42px;
+}
+
+.btn {
+  color: #fff;
+  background-color: #00f;
+  border: none;
+  border-radius: 15px;
+  padding: 15px;
+  font-size: 14px;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
