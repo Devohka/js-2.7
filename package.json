@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel src/*.html",
+    "build": "parcel build src/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
