@@ -11,9 +11,9 @@ btn.addEventListener("click", (e) => {
     e.currentTarget
     
         const user = {
-            name: `${nameEl}`,
-            text: `${text}`,
-            email: `${email}`
+            name: nameEl.value,
+            text: text.value,
+            email: email.value
         };
         title.textContent = "Успішне відправлення";
 });

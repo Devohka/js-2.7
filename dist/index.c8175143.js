@@ -8,7 +8,7 @@ btn.addEventListener("click", (e)=>{
     const user = {
         name: `${nameEl}`,
         text: `${text}`,
-        email: `${email}`
+        email: email.value
     };
     title.textContent = "\u0423\u0441\u043F\u0456\u0448\u043D\u0435 \u0432\u0456\u0434\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u043D\u044F";
 });
